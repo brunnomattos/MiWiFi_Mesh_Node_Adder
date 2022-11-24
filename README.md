@@ -57,3 +57,6 @@ Just input the ip address of the master router, the password and the mac address
 ## Special thanks
 - [ScientificHackers](https://github.com/scientifichackers) here on github for the [pymiwifi](https://github.com/scientifichackers/pymiwifi) repository, used for the login part.
 - [Oualibadr](https://xiaomi.eu/community/members/oualibadr.281804/) from the Xiaomi forums for the "*Singapore only*" hint
+
+## References
+- [XiaomiForum](https://xiaomi.eu/community/threads/ax-3600-mesh-not-detected.58886/post-580780)
